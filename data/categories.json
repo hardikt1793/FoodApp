@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Open",
+        "icon": "star-sharp"
+    },
+    {
+        "id": 2,
+        "name": "Restaurant",
+        "icon": "restaurant-outline"
+    },
+    {
+        "id": 3,
+        "name": "Cafe",
+        "icon": "cafe-outline"
+    },
+    {
+        "id": 4,
+        "name": "Fast Food",
+        "icon": "fast-food-outline"
+    },
+    {
+        "id": 5,
+        "name": "Desserts",
+        "icon": "ice-cream-outline"
+    }
+]

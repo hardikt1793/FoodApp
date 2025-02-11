@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Recent",
+    "icon": "time-outline"
+  },
+  {
+    "id": 2,
+    "name": "Sort Later",
+    "icon": "filter-outline"
+  },
+  {
+    "id": 3,
+    "name": "Favorites",
+    "icon": "heart-outline"
+  },
+  {
+    "id": 4,
+    "name": "Top Rated",
+    "icon": "star-outline"
+  },
+  {
+    "id": 5,
+    "name": "Trending",
+    "icon": "flame-outline"
+  }
+]
